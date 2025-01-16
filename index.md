@@ -25,4 +25,9 @@ print('what a lovely flower')
 
 
 
-let's see
+- [ ] let's see
+- [ ] learn GitHub
+- [ ] practice seriously to remember details
+- [ ] read the study guide
+- [ ] register
+- [ ] pass the certification
